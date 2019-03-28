@@ -1,0 +1,21 @@
+body {
+    background-color: blanchedalmond;
+}
+#nombre {
+    font: 150% sans-serif;
+}
+#foto{
+border-style: solid;
+border-color: red;
+}
+#cajas{
+border-color: black;
+border-style: double;
+background-color: gainsboro;
+max-width: 800px;
+}
+
+
+iframe{
+order:0 allowfullscreen
+}
